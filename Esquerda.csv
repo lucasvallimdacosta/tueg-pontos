@@ -1,4 +1,4 @@
-Gira,Título do Ponto,Letra do Ponto,Médium,Entidade
+Gira,Título do Ponto,Letra do Ponto,Médium,Entidade,Toque
 Esquerda,Orixá Obaluaê - Se você está sofrendo,"Se você está sofrendo
 No leito ou com frio e com dor
 Muita gente ele curou
@@ -25,7 +25,7 @@ Outro mundo mais bonito!
 Obaluae!!!
 É Obaluae, é Obaluae
 É Atoto!
-É Obaluae, é Obaluae",,
+É Obaluae, é Obaluae",,,
 Esquerda,Na Pedra Fria,"Na pedra fria, no pé do morro
 Dizem que mora, um velho lá (2x)
 
@@ -42,7 +42,7 @@ Atotô, obaluaê (2x)
 Atotô, obaluaê
 Atotô, babá
 Atotô, obaluaê
-Atotô, é Orixá (2x)",,
+Atotô, é Orixá (2x)",,,
 Esquerda,Abertura - Com licença da Umbanda,"Com licença da Umbanda
 Pra esquerda eu vou virar (2x)
 Vou chamar todos os Exus
@@ -55,7 +55,7 @@ Desci, desci
 A umbanda me chamou (2x)
 
 Na minha banda eu sou o maior
-Oxalá ainda é maior (2x)",,
+Oxalá ainda é maior (2x)",,,
 Esquerda,Abertura - Portão de ferro,"Portão de ferro
 Cadeado de madeira (2x)
 
@@ -67,27 +67,27 @@ Exu rei da encruzilhada!
 Salve o povo da calunga
 Sem Exu não se faz nada! (2x)
 
-Eo, eo, o dono casa chegou (2x)",,
+Eo, eo, o dono casa chegou (2x)",,,
 Esquerda,Exu Caveira - Mosca Varejeira,"Ê poeire, Ê poeira (2x)
 
 Olha a mosca varejeira
-Salve Exu Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira
+Salve Exu Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira,
 Esquerda,Exu Caveira - Eu vi homem sentado,"Eu vi homem sentado
 Debaixo da amendoeira (2x)
 
 Era osso só
-Era Exu Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira
+Era Exu Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira,
 Esquerda,Exu Caveira - Caveira eu tô lhe chamando,"Caveira eu tô lhe chamando
 Caveira!
 Eu tô lhe chamando
 Caveira!
-E todo o seu bando (2x)","Pai Marcos, Eric Oliveira",Exu Caveira
+E todo o seu bando (2x)","Pai Marcos, Eric Oliveira",Exu Caveira,
 Esquerda,Exu Caveira - Soltaram um bode preto,"Soltaram um bode preto
 Meia noite na calunga (2x)
 
 Ele correu os quatro scantos
 Foi parar lá na porteira
-Bebeu marafo com Exú Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira
+Bebeu marafo com Exú Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira,
 Esquerda,Exu Caveira - Dono da porteira,"Ehhh Exu Caveira
 Guardião do cemitério
 Ele é o dono da porteira (2x)
@@ -95,7 +95,7 @@ Ele é o dono da porteira (2x)
 Vem da cruz das almas
 Das catacumbas
 Vem estrelando osso
-Chicoteando kiumba (2x)","Pai Marcos, Eric Oliveira",Exu Caveira
+Chicoteando kiumba (2x)","Pai Marcos, Eric Oliveira",Exu Caveira,
 Esquerda,Exu Caveira - Eu entrei lá na calunga,"Eu entrei lá na calunga
 Eu entrei lá na calunga
 E parei lá no cruzeiro
@@ -103,7 +103,7 @@ Veio um vento forte
 E levantou poeira
 
 Zuá, zuo, zuá zueira
-Aquele vento era Exu Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira
+Aquele vento era Exu Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira,
 Esquerda,Exu Caveira - Mrimbondo pequenino,"Não tem medo de ninguem
 Ele é Exu Caveira
 E só trabalha para o bem
@@ -114,14 +114,14 @@ Ele é Exu Caveira
 Aqui e em qualquer lugar
 
 Zuá, zuo, zuá zueira
-Aquele vento era Exu Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira
+Aquele vento era Exu Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira,
 Esquerda,Exu Caveira - Vento forte,"Vento forte, vento fraco
 Na calunga tem poder
 Esta poeira é do Caveira
 Ele vem nos defender
 
 Zuá, zuo, zuá zueira
-Aquele vento era Exu Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira
+Aquele vento era Exu Caveira (2x)","Pai Marcos, Eric Oliveira",Exu Caveira,
 Esquerda,Se matar o boi,"Se matar o boi
 Mata na porteira (2x)
 
@@ -131,7 +131,7 @@ E oferece pro Caveira (2x)
 A porteira é larga
 Deixa o boi passar
 Se ele não morrer aqui
-Morre em qualquer lugar (2x)",,
+Morre em qualquer lugar (2x)",,,
 Esquerda,Exu Pantera Negra - Quando toco meu tambor,"Quando eu toco meu tambor
 Eu atiço a fera (2x)
 
@@ -151,7 +151,7 @@ Era mitade homem
 Outra mitade de fera (2x)
 
 Exu larô povo do mato
-Saravá o exu pantera! (4x)",Pai Erick,Exu Pantera Negra
+Saravá o exu pantera! (4x)",Pai Erick,Exu Pantera Negra,
 Esquerda,Exu Calunga - Calunga ê,"Calunga ê
 Quebra demanda
 
@@ -161,19 +161,19 @@ Pra demanda quebrar (2x)
 
 Exu que veio
 Pra demanda quebrar
-Exu que veio, é Exu Calunga (2x)",Pai Erick,Exu Calunga
+Exu que veio, é Exu Calunga (2x)",Pai Erick,Exu Calunga,
 Esquerda,Exu Marabo do Cemitério - Marabo iê,"Marabo iê, Marabo iá (2x)
 
 Oh cade Marabo
 Cade Marabo
 Cade Marabo
-Marabo iá (2x)",Pai Marcos,Exu Marabo do Cemitério
+Marabo iá (2x)",Pai Marcos,Exu Marabo do Cemitério,
 Esquerda,Exu Marabo das Almas - Meu advogado,"Seu Marabo
 Quem te chama sou eu
 Porque estou desesperado (2x)
 
 Nas horas das aflições
-Seu Marabo é meu advogado (2x)",Lu,Exu Marabo das Almas
+Seu Marabo é meu advogado (2x)",Lu,Exu Marabo das Almas,
 Esquerda,Exu Marabo das Almas - Tá na hora,"Tá na hora
 Desse exu trabalhador
 
@@ -184,17 +184,17 @@ Um grande protetor
 Na força do guerreiro caçador
 Desfaz magia e quebra demanda
 Trazendo força e poder
-Pra nossa Umbanda (x2)",Lu,Exu Marabo das Almas
+Pra nossa Umbanda (x2)",Lu,Exu Marabo das Almas,
 Esquerda,Exu Marabo das Matas - Um vulto,"Um vulto na mata passou
 Aquele vulto era Exu Marabo (2x)
 
 Ele venceu a guerra
-Ele é seu Marabo",Diego,Exu Marabo das Matas
+Ele é seu Marabo",Diego,Exu Marabo das Matas,
 Esquerda,Exu Marabo das Matas - Ventou no Canavial,"Ventou no Canavial
 Um trovão lá no céu ecoou (2x)
 
 Salve Iansã e Xangô
-Salve a coroa de Exu Marabô (2x)",Diego,Exu Marabo das Matas
+Salve a coroa de Exu Marabô (2x)",Diego,Exu Marabo das Matas,
 Esquerda,Exu Capa Preta - Manto de caridade,"Seu Capa Preta
 Me cobra com a sua capa
 
@@ -204,12 +204,12 @@ Quem tem sua capa escapa (2x)
 A sua capa é
 Um manto de caridade
 Sua capa cobre tudo
-Só não cobre a falsidade (2x)","Luiz, Carolina",Exu Capa Preta
+Só não cobre a falsidade (2x)","Luiz, Carolina",Exu Capa Preta,
 Esquerda,Exu Tata Caveira - Ele vem vindo,"Ele vem vindo
 Por detrás da bananeira (2x)
 
 Corre gira, corre gira
-Exu Tata Caveira (2x)",Claudia,Tata Caveira
+Exu Tata Caveira (2x)",Claudia,Tata Caveira,
 Esquerda,Exu Tata Caveira - Mandaram bala,"Mandaram bala para me matar
 A maldita dessa bala
 Foi parar em outro lugar (2x)
@@ -231,7 +231,7 @@ Ele é Tatá Caveira
 
 Tatá, Tatá Caveira
 Morador lá da calunga
-Me protégé a vida inteira (2x)",Claudia,Tata Caveira
+Me protégé a vida inteira (2x)",Claudia,Tata Caveira,
 Esquerda,Exu Rei das 7 Encruzilhadas - Era meia noite,"Era meia noite
 Era meia noite
 Quando o malvado chegou (2x)
@@ -240,7 +240,7 @@ Saravá Rei Omolu
 Vai chegar a madrugada
 
 Salve Exu, salve Exu
-Das 7 Encruzilhadas (2x)",Juan,Exu Rei das 7 Encruzilhadas
+Das 7 Encruzilhadas (2x)",Juan,Exu Rei das 7 Encruzilhadas,
 Esquerda,Exu Rei das 7 Encruzilhadas - Odara,"Odara
 Morador de encruzilhada
 Firma seu ponto
@@ -249,27 +249,27 @@ Com sete facas cruzadas (2x)
 Filho de umbanda
 Pede com fé
 Pra seu sete encruzilhadas
-Que ele dá o que você quer (2x)",Juan,Exu Rei das 7 Encruzilhadas
+Que ele dá o que você quer (2x)",Juan,Exu Rei das 7 Encruzilhadas,
 Esquerda,Exu Tiriri - Um pesadelo,"Quem nunca teve um pesadelo
 Essa noite vai sonhar com Tiriri (2x)
 
 Seu Tiriri
 Seu Tiriri
 Toma conta da porteira
-Não deixa casa cair (2x)",Luiz,Exu Tiriri
+Não deixa casa cair (2x)",Luiz,Exu Tiriri,
 Esquerda,Exu Tranca Rua - O Sino da igrejinha,"O Sino da igrejinha faz blém blém blom (2x)
 
 Deu meia-noite
 O galo já cantou
 Seu Tranca Ruas é que está na gira
-Oh corre gira que Ogum mandou",Thiago,Exu Tranca Rua
+Oh corre gira que Ogum mandou",Thiago,Exu Tranca Rua,
 Esquerda,Exu Tranca Rua - Eu amei alguém,"Eu amei alguém
 E esse alguém não amava ninguém (2x)
 
 Eu amei o sol
 Eu amei a lua
 Na encruzilhada
-Eu amei seu Tranca Rua (2x)",Thiago,Exu Tranca Rua
+Eu amei seu Tranca Rua (2x)",Thiago,Exu Tranca Rua,
 Esquerda,Exu Tranca Rua - Lá na encruza,"Lá na encruza, na encruza
 Existe um homem valente (2x)
 
@@ -280,7 +280,7 @@ Com seu punhal e tridente (2x)
 E ele está ao meu lado (2x)
 
 Por isso eu te digo, Tranca-Rua
-Você é meu advogado! (2x)",Thiago,Exu Tranca Rua
+Você é meu advogado! (2x)",Thiago,Exu Tranca Rua,
 Esquerda,Exu Tranca Rua - Dono do meu caminho,"Quando o sol aqui não mais brilhar
 Quando da lua seu clarão refletir
 É sinal que está na hora
@@ -301,7 +301,7 @@ Sua voz a ecoar
 Tenho certeza
 Que agora não ando sozinho
 Seu tranca rua é dono
-Do meu caminho",Thiago,Exu Tranca Rua
+Do meu caminho",Thiago,Exu Tranca Rua,
 Esquerda,Exu Tranca Rua - O luar,"Se tem problema a resolver
 Ô Luar
 E encontrar dificuldades
@@ -315,7 +315,7 @@ Exu também faz caridade
 Mas ele é o dono da Rua (2x)
 
 Quem cometeu as suas faltas
-Peça perdão a Tranca Rua (2x)",Thiago,Exu Tranca Rua
+Peça perdão a Tranca Rua (2x)",Thiago,Exu Tranca Rua,
 Esquerda,Exu Tranca Rua - Deu meia noite,"Deu meia noite
 A lua se escondeu
 Lá na encruzilhada
@@ -327,7 +327,7 @@ Tranca Rua apareceu (2x)
 
 Dando a sua gargalhada
 Quem tem fé em Tranca Rua
-É só pedir que ele dá (2x)",Thiago,Exu Tranca Rua
+É só pedir que ele dá (2x)",Thiago,Exu Tranca Rua,
 Esquerda,Exu Maré - Mareou,"Mareou
 Mareou
 A terra balançou (2x)
@@ -339,7 +339,7 @@ Exu Maré (2x)
 Eu vi Exu gargalhar
 Lá na beira do mar
 Quem mandou foi Iemanjá
-Vem chegando Exu Maré",Eduin,Exu Maré
+Vem chegando Exu Maré",Eduin,Exu Maré,
 Esquerda,Exu Cobra Venenosa - Na sombra da mata escura,"Na sombra da mata escura
 Na sombra da mata escura
 Uma alma pra mim gargalhou (2x)
@@ -355,48 +355,48 @@ Ah Laroyê
 Ê Mojubá
 
 Seu Exu Cobra
-É feiticeiro de Umbanda (2x)",Carolina,Exu Cobra Venenosa
+É feiticeiro de Umbanda (2x)",Carolina,Exu Cobra Venenosa,
 Esquerda,João Caveira - Exu das almas,"Mas ele mora
 Naquela morada
 Onde não passa agua
 Onde não brilha o sol
 
 Mas ele é João Caveira ehh
-Exu das almas da calunga é (2x)",Diego,João Caveira
+Exu das almas da calunga é (2x)",Diego,João Caveira,
 Esquerda,Exu Xoroque,"Exu, Exu Xoroque (2x)
 
 Meu senhor das estradas (Xoroque)
 Abra meus caminhos (Xoroque)
 Meu senhor da porteira (Xoroque)
-Ele é meu pai Exu Xoroque",Lu,Exu Xoroque
+Ele é meu pai Exu Xoroque",Lu,Exu Xoroque,
 Esquerda,Foi lá na porteira,"Foi lá na porteira
 Que eu deixei meu sentinela (2x)
 
 Eu deixei seu (entidade)
-Tomando conta da cancela (2x)",,
+Tomando conta da cancela (2x)",,,
 Esquerda,Santo Antonio de batalha,"Santo Antônio de batalha
 Faz de mim batalhador (2x)
 
 Corre gira, Pombo Gira
-Tranca Rua e Marabô (2x)",,
+Tranca Rua e Marabô (2x)",,,
 Esquerda,Ae Ae Calunga,"Ae ae Calunga
 Eu vou abrir meu casua (2x)
 
 Eu vou chamar (entidade)
-Para macumba começar (2x)",,
+Para macumba começar (2x)",,,
 Esquerda,Na casa de Exu,"Na casa de Exu
 Na casa de Exu
 Tem macumba todo dia (2x)
 
 Quem tem santo incorpora
-Quem não tem se arrepia (2x)",,
+Quem não tem se arrepia (2x)",,,
 Esquerda,Calunga Grande - Exu,"Com ele não tem mistério
 Com ele não tem mistério
 Não tem magia
 Não tem segredo.
 
 Ele é o rei da Calunga
-Seu nome é, Exu Morcego (2x)",,
+Seu nome é, Exu Morcego (2x)",,,
 Esquerda,É na calunga grande,"É na calunga grande
 Não tem coveiro não (2x)
 
@@ -404,7 +404,7 @@ A catacumba onde eu moro
 É resto de embarcação (2x)
 
 Sou eu, sou eu
-Quem ronda no mar, sou eu (2x)",,
+Quem ronda no mar, sou eu (2x)",,,
 Esquerda,Leva Exu - Descarrego,"Leva Exu
 Leva pra encruzilhada
 Tudo o que não for bom
@@ -413,12 +413,12 @@ Leva embora desta casa.
 Leva Exu
 Limpa o corpo do seu filho
 Carrega toda a maldade
-E traz o bem pros meus caminhos",,
+E traz o bem pros meus caminhos",,,
 Esquerda,Me disseram,"Me disseram que essa casa
 Ia cair (2x)
 
 Mas ela é madeira
-Que não dá cupim (2x)",,
+Que não dá cupim (2x)",,,
 Esquerda,Não mexa com a Calunga,"Olha não mexa
 Com o povo da calunga (2x)
 A cova pode ser rasa
@@ -445,13 +445,13 @@ Quem vive para destruir.
 Preste atenção
 No caminho que escolher.
 Pode não haver retorno
-Quando se arrepender",,
+Quando se arrepender",,,
 Esquerda,A sua casa não tem parede,"A sua casa não tem parede
 Não tem janela
 E não tem nada (2x)
 
 Aonde é, aonde é que Exu mora
-Exu mora lá na encruzilhada (2x)",,
+Exu mora lá na encruzilhada (2x)",,,
 Esquerda,Balançou a terra chacoalhou,"Balançou, a terra chacoalhou
 Balançou, terra chacoalhou (2x)
 
@@ -464,14 +464,14 @@ Ele venceu demanda
 Lá nas matas ele caminhou.
 Mas foi lá no cemitério
 Que Seu Treme Terra
-Descarregou (2x)",,
+Descarregou (2x)",,,
 Esquerda,Maria Mulambo - Abre a roda,"Oh abre a roda
 Deixa a Mulambo trabalhar (2x)
 
 Mas ela tem
 Ela tem peito de aço
 Ela tem peito de aço
-E um coração de sabiá (2x)",Pai Marcos,Maria Mulambo da Lixeira
+E um coração de sabiá (2x)",Pai Marcos,Maria Mulambo da Lixeira,
 Esquerda,Maria Mulambo - Oh Umbanda,"Oh Umbanda
 Maria Mulambo vai chegar (2x)
 
@@ -483,7 +483,7 @@ Pra trazer o amor (2x)
 Maria Mulambo, ela é fiel
 É ouro que cai do céu
 Maria Mulambo, ela te faz ganhar
-Maria Mulambo é moça de se admirar (2x)",Pai Marcos,Maria Mulambo da Lixeira
+Maria Mulambo é moça de se admirar (2x)",Pai Marcos,Maria Mulambo da Lixeira,
 Esquerda,Maria Mulambo - A sua capa,"A sua capa já mandei fazer
 Ela foi cruzada no azeite de dendê
 
@@ -492,7 +492,7 @@ Olha a saia dela lele
 É Mulambo só (2x)
 
 Sua saia tem sete metros
-Sete metros é farrapo só (2x)",Pai Marcos,Maria Mulambo da Lixeira
+Sete metros é farrapo só (2x)",Pai Marcos,Maria Mulambo da Lixeira,
 Esquerda,Maria Mulambo - Uma rosa linda,"Uma rosa linda
 Uma rosa encantada.
 Entreguei para a moça mais bela
@@ -523,7 +523,7 @@ Vem fumar e vem beber
 A sua capa já mandei fazer (2x)
 
 Não é capa de Exú
-É de Maria Mulambê (2x)",Pai Marcos,Maria Mulambo da Lixeira
+É de Maria Mulambê (2x)",Pai Marcos,Maria Mulambo da Lixeira,
 Esquerda,Maria Quitéria - Pomba gira malvada,"Pomba gira malvada
 Vestido negro
 Uma navalha afiada
@@ -539,14 +539,14 @@ Gira de noite ou gira de dia (2x)
 
 Não queira sentir a navalha afiada
 Maria Quitéria
-É pomba gira malvada (2x)",Pai Erick,Maria Quitéria
+É pomba gira malvada (2x)",Pai Erick,Maria Quitéria,
 Esquerda,Rosa Vermelha - Pomba gira gire,"Pomba gira gire
 Cigana linda
 Da Mata escura
 Firma seu ponto no clarão da Lua (2x)
 
 Mas ela é Pombagira gire
-Mas ela é pombagira girá (2x)",Diego,Rosa Vermelha
+Mas ela é pombagira girá (2x)",Diego,Rosa Vermelha,
 Esquerda,Rosa Vermelha - O vento soprou,"O vento soprou
 O vento soprou
 Um perfume de roseira
@@ -564,7 +564,7 @@ Vem saudar essa moça da tronqueira
 Vem saudar essa moça feiticeira
 Vem saudar essa moça da roseira
 Seu perfume tá no ar
-Quem chegou é Rosa Vermelha (2x)",Diego,Rosa Vermelha
+Quem chegou é Rosa Vermelha (2x)",Diego,Rosa Vermelha,
 Esquerda,Dona 7 Catacumbas - Lá vem,"Lá vem, lá vem
 Lá vem, lá vem
 Uma bruxa feiticeira (2x)
@@ -579,7 +579,7 @@ Pomba gira poderosa
 Da falange dos caveiras
 Ela não é de brincadeira
 Sua morada é na calunga
-Seu feitiço tem axé","Claudia, Natalia",Dona 7 Catacumbas
+Seu feitiço tem axé","Claudia, Natalia",Dona 7 Catacumbas,
 Esquerda,Maria Padilha das Almas - Quem viu o sol,"Quem viu o sol
 Quem viu o sol se esconder
 Quem viu a lua brilhar
@@ -594,14 +594,14 @@ E a sandalia é de prata
 Numa mão tem perfume
 Na outra tem a flor
 Para a Umbanda querida
-Maria Padilha traz páz e amor",Claudia,Maria Padilha das Almas
+Maria Padilha traz páz e amor",Claudia,Maria Padilha das Almas,
 Esquerda,Maria Padilha das Almas - Padilha na mesa de um bar,"Padilha na mesa de um bar
 Pra beber e cantar
 E viver de alegria
 
 Padilha mulher encantada
 Rainha da encruzilhada
-Senhora da magia (2x)",Claudia,Maria Padilha das Almas
+Senhora da magia (2x)",Claudia,Maria Padilha das Almas,
 Esquerda,Maria Padilha das Almas - Cemitério é Praça linda,"Cemitério é praça linda
 Mas ninguém quer passear (2x)
 
@@ -611,20 +611,20 @@ Maria Padilha mora lá (2x)
 Mora lá, mora lá
 Mora lá, mora lá
 Mora lá, mora lá
-Maria Padilha mora lá (2x)",Claudia,Maria Padilha das Almas
+Maria Padilha mora lá (2x)",Claudia,Maria Padilha das Almas,
 Esquerda,Maria Padilha das Almas - Passar no cemitério,"Eu hoje vou passar no cemitério
 Sempre foi maior mistério
 Saber se ela mora lá (2x)
 
 Cova meia meia corredor quarenta
 Padilha levantou
-Eu quero ver quem aguenta (2x)",Claudia,Maria Padilha das Almas
+Eu quero ver quem aguenta (2x)",Claudia,Maria Padilha das Almas,
 Esquerda,Maria Padilha da Praia - Na beira da praia,"Na beira da praia
 Na beira da praia eu vi
 Uma linda mulher gargalhar (2x)
 
 É Maria Padilha da praia
-Que veio trabalhar (2x)",Juan,Maria Padilha da Praia
+Que veio trabalhar (2x)",Juan,Maria Padilha da Praia,
 Esquerda,Maria Padilha da Praia - Pomba gira da praia,"Uma noite linda
 Dormindo na beira do mar
 Entre meus sonhos de pena
@@ -643,12 +643,12 @@ Levou toda minha pena
 Eu agradeço mulher
 A força que me entregaste
 Mais eu prometo a você
-Na vida sempre adorar-te (2x)",Juan,Maria Padilha da Praia
+Na vida sempre adorar-te (2x)",Juan,Maria Padilha da Praia,
 Esquerda,Rosa Caveira - Buque de rosas,"Não é me desfazendo das mulheres
 Rosa Caveira é a minha preferida (2x)
 
 Mulher faceira, mulher formosa
-Rosa Caveira é o meu buque de rosas (2x)",Luiz,Rosa Caveira
+Rosa Caveira é o meu buque de rosas (2x)",Luiz,Rosa Caveira,
 Esquerda,Rosa Caveira - Sacode o pó,"Sacode o pó que chegou
 Rosa Caveira!
 Pomba Gira da calunga
@@ -666,7 +666,7 @@ Promete para não faltar
 Sacode o pó que chegou
 Rosa Caveira
 Pomba Gira Da calunga
-Vem levantando poeira (2x)",Luiz,Rosa Caveira
+Vem levantando poeira (2x)",Luiz,Rosa Caveira,
 Esquerda,Rosa Caveira - Caixão lacrado,"No cemitério tinha um caixão lacrado
 Sete velas ao seu lado
 E nele estava escrito assim (2x)
@@ -680,7 +680,7 @@ A tampa levantou
 E a gargalhada ecoou (2x)
 
 Mas que gargalhada é essa?
-É Rosa caveira fazendo a festa! (2x)",Luiz,Rosa Caveira
+É Rosa caveira fazendo a festa! (2x)",Luiz,Rosa Caveira,
 Esquerda,Rosa Caveira - Levo uma rosa,"Levo uma rosa
 Quando vou ao seu axé
 Falo com Rosa Caveira
@@ -689,7 +689,7 @@ Porque nela eu tenho fé
 Tudo o que peço
 Nunca me deixou faltar
 Ela é muito famosa
-Ela é Mojubá",Luiz,Rosa Caveira
+Ela é Mojubá",Luiz,Rosa Caveira,
 Esquerda,Pomba Gira Menina - Aquele Olhar,"Estou sentindo falta de um sorriso
 Que falta está fazendo aquele olhar (2x)
 
@@ -701,14 +701,14 @@ Que tem nome de menina (2x)
 Você é a mais bela flor (2x)
 
 Trazendo pra sua encruzilhada
-A magia que liberta o amor (2x)",Eric Oliveira,Pomba Gira Menina
+A magia que liberta o amor (2x)",Eric Oliveira,Pomba Gira Menina,
 Esquerda,Pomba Gira Menina - Chorei Chorei,"Chorei, chorei
 O homem que eu amava eu matei (2x)
 
 Matei com 7 facadas
 Em cima do coração
 Sou Pomba Gira Menina
-E não aceito traição (2x)",Eric Oliveira,Pomba Gira Menina
+E não aceito traição (2x)",Eric Oliveira,Pomba Gira Menina,
 Esquerda,Maria das 7 Encruzilhadas - Podem lhe prender,"Podem lhe prender
 Podem lhe prender
 Podem lhe acorrentar
@@ -719,7 +719,7 @@ Nada vai lhe segurar (2x)
 Quando foi de vida
 Ela sempre fez o bem
 Enterrou seus inimigos
-Mas nunca matou ninguém (2x)",Lu,Maria das 7 Encruzilhadas
+Mas nunca matou ninguém (2x)",Lu,Maria das 7 Encruzilhadas,
 Esquerda,Maria das 7 Encruzilhadas - Dói dói dói,"Dói, dói, dói, dói, dói
 Um amor faz sofrer
 Dois amor amor faz chorar
@@ -741,13 +741,13 @@ Te dei uma rosa, e tirei os espinhos (2x)
 Dói, dói, dói, dói, dói
 Um amor faz sofrer
 Dois amor amor faz chorar
-Dói, dói, dói (2x)",Lu,Maria das 7 Encruzilhadas
+Dói, dói, dói (2x)",Lu,Maria das 7 Encruzilhadas,
 Esquerda,É uma casa de pombo,"É uma casa de pombo
 É de pombo-gira (2x)
 
 Auê auê auê auê
 Auê auá
-Eu quero ver Pombo gira (2x)",,
+Eu quero ver Pombo gira (2x)",,,
 Esquerda,Pomba Gira Cigana de fé,"Vinha caminhando a pé
 Para ver se encontrava
 Pomba gira cigana de fé (2x)
@@ -757,7 +757,7 @@ Me disse toda a verdade
 
 Eu só queria saber
 Por onde andava
-Pomba Gira Cigana de fé (2x)",,
+Pomba Gira Cigana de fé (2x)",,,
 Esquerda,Bafafá na encruzilhada,"Houve um bafafá na encruzilhada
 O que ouve
 O que há
@@ -768,7 +768,7 @@ Só sei que a pomba gira tava lá
 Eu quero ver pombo gire
 Eu quero ver pombo girá
 Eu quero ver pombo girá
-Trabalhando sem parar",,
+Trabalhando sem parar",,,
 Esquerda,Maria Maria,"Mulher, mulher
 Ela é Tata Mirongue
 Ela é Tata na calunga
@@ -781,7 +781,7 @@ Ela é Maria, Maria (2x)
 Ela Tata na calunga
 Ela é Maria, Maria
 Ela é Pombo gira
-Ela é Maria, Maria (2x)",,
+Ela é Maria, Maria (2x)",,,
 Esquerda,Tata na calunga,"Quando passar
 Na porta do cemitério, moço
 Não se esqueça de olhar pra trás (2x)
@@ -789,7 +789,7 @@ Não se esqueça de olhar pra trás (2x)
 Você vai ver
 Uma moça vestida de preto, oh moço
 
-Ela é Maria, Maria (2x)",,
+Ela é Maria, Maria (2x)",,,
 Esquerda,Xô Urubu,"Xô urubu, urubu quer me comer (2x)
 
 Subiu na cominheira
@@ -798,7 +798,7 @@ Não me viu e nem me ve
 Vou chamar a feiticeira
 Para vim me proteger
 
-Xô xô xô xô",,
+Xô xô xô xô",,,
 Esquerda,Na casa da Farrapo,"Na casa da Farrapo
 Tem uma caveira
 Para mostrar
@@ -807,7 +807,7 @@ Que ela não é de brincadeira (2x)
 E também tem uma tesoura
 Que o diabo deixou
 Pra cortar a língua
-Desse povo falador",,
+Desse povo falador",,,
 Esquerda,Maria Farrapo girou,"Maria Farrapo girou
 Maria Farrapo girou
 Girou e mandou avisar (2x)
@@ -816,14 +816,14 @@ Que hoje tem festa na rua
 No clarão da lua, pra quem chegar (2x)
 
 Ela é a Pombagira
-Rainha do Cabaré (2x)",,
+Rainha do Cabaré (2x)",,,
 Esquerda,Sete saias,"Pombo gira sete saias
 É mulher de sete maridos (2x)
 
 Carrega sete navalhas
 Na barra de seu vestido (2x)
 
-Sete Saias chegou (2x)",,
+Sete Saias chegou (2x)",,,
 Esquerda,O Dama da noite,"O Dama da noite
 O minha donzela
 
@@ -832,12 +832,12 @@ Eu quero falar com ela (2x)
 
 Olha ela ai, Olha ela ai
 Ô Dama da Noite
-A mulher de Tiriri (2x)",,
+A mulher de Tiriri (2x)",,,
 Esquerda,Arreda homem,"Arreda homem
 Que ai vem mulher (2x)
 
 Ela é a Pombagira
-Rainha do Cabaré (2x)",,
+Rainha do Cabaré (2x)",,,
 Esquerda,Exu Mirim - É mirim,"É Mirim é Mirim é Mirim
 É Mirim pirimpimpim (2x)
 
@@ -847,7 +847,7 @@ Tira encrenca
 Tira sufoco (2x)
 
 Passa no quintal dos outros
-Mas não mexa com o vizinho",,
+Mas não mexa com o vizinho",,,
 Esquerda,Mirim Caveirinha - Kiuô Odará,"Kiuô Odará
 Venha Trabalhar
 
@@ -859,7 +859,7 @@ Faz pedra rolar
 Na mão esquerda a foice
 Na cinta o Punhal
 Não sai da linha mano
-Pra não se dar mal","Pai Marcos, Eric Oliveira, Luiz",Mirim Caveirinha
+Pra não se dar mal","Pai Marcos, Eric Oliveira, Luiz",Mirim Caveirinha,
 Esquerda,Orixá Exu - Exu Ajuô Mamam,"Laroyê, Exu Ajuô Mamam
 Kiuô Odará
 Exu Aô (5x)
@@ -870,20 +870,20 @@ Odará Lo Xoro
 Elo xorô Odará Lo Xoro Lonan (3x)
 
 Ojixê Pa Lefun Aô
-Odara Pa Lessobá (3x)",,
+Odara Pa Lessobá (3x)",,,
 Esquerda,Subida - Vai se embora Exú,"Vai se embora Exú
-Não tropeça no caminho",,
+Não tropeça no caminho",,,
 Esquerda,Descarrego de Caboclos - Esquerda,"Descarrega, descarrega
 Todo mal que aqui está
 Leva, leva, leva
-Tudo pró fundo do mar",,
+Tudo pró fundo do mar",,,
 Esquerda,Descarrego dos Orixás - Esquerda,"Ogun bateu na terra, no rai de Xango
 Toda a poeira que sobrou
 Oxum pra Aruanda levou, levou, levou
 Licenca de Oxossi ela ganhou
 Na onda de Iemanjá
 Iansa no barra-vento
-Pra Oxalá tudo levou, levou, levou",,
+Pra Oxalá tudo levou, levou, levou",,,
 Esquerda,Madalena vem em socorro - Esquerda,"Descarrega, descarrega
 Que esse filho tem precisao
 Madalena vem em soccorro
@@ -892,4 +892,4 @@ Limoa toda a obesessao
 Ogun já está de ronda
 Exu de prontidao
 Leva pro mar profundo
-Toda dor e aflicao",,
+Toda dor e aflicao",,,
