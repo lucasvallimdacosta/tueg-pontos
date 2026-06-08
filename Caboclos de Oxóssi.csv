@@ -1,4 +1,4 @@
-Gira,Título do Ponto,Letra do Ponto,Médium,Entidade
+Gira,Título do Ponto,Letra do Ponto,Médium,Entidade,Toque
 Caboclos de Oxóssi,Saudação a Oxóssi - Quem manda na mata,"Quem manda na mata é Oxóssi
 Oxóssi é caçador
 Oxóssi é caçador (2x)
@@ -9,11 +9,11 @@ Ele mandou chamar (2x)
 É de Aruanda auê
 É de Aruanda auá
 Todos os Caboclos de Umbanda
-É de Aruanda (2x)",,
+É de Aruanda (2x)",,,
 Caboclos de Oxóssi,Eu vi chover eu vi relampear,"Eu vi chover, eu vi relampear
 Mas mesmo assim o céu estava azul
 Firma seu ponto na folha da Jurema
-Oxóssi reina de norte a sul (2x)",,
+Oxóssi reina de norte a sul (2x)",,,
 Caboclos de Oxóssi,A mata estava escura,"A mata estava escura
 Um anjo iluminou
 No centro da mata virgem
@@ -23,7 +23,7 @@ Mas ele é o rei
 Ele é o rei
 Ele é o rei
 Mas ele é o rei de Aruanda
-Ele é o rei (2x)",,
+Ele é o rei (2x)",,,
 Caboclos de Oxóssi,O rei das matas,"Sou filho do guerreiro
 De uma flecha só
 Sou filho de Oxóssi caçador
@@ -53,7 +53,7 @@ O meu protetor (2x)
 Saravá meu pai Oxóssi
 Sua benção meu senhor
 Okê Arô (4x)
-Okê Arô (3x)",,
+Okê Arô (3x)",,,
 Caboclos de Oxóssi,7 Flechas - Lê lele,"Lê, lele
 Lere lere lere lere lerá
 Lê, lele
@@ -63,17 +63,17 @@ Saravá Sr. 7 Flechas
 Ele é o Rei da Mata
 A sua bodoca atira paranga
 Sua flecha mata!
-Lê lê lê","Pai Marcos, Thiago",7 Flechas
+Lê lê lê","Pai Marcos, Thiago",7 Flechas,
 Caboclos de Oxóssi,Mata Virgem - Na mata virgem,"Na mata virgem uma coral piou
 Ele atirou a sua flecha certeira. (2x)
 
 Ele atirou, ele atirou, ele atirou
-Atira caboclo lá na mata da Jurema. (2x)","Pai Marcos, Drika",Mata Virgem
+Atira caboclo lá na mata da Jurema. (2x)","Pai Marcos, Drika",Mata Virgem,
 Caboclos de Oxóssi,Pena Verde - A mata estremeceu,"A mata estremeceu
 Quem será, quem será (2x)
 
 É o caboclo Pena Verde
-Com sua falange ele vem trabalhar (2x)","Pai Erick, Diego",Pena Verde
+Com sua falange ele vem trabalhar (2x)","Pai Erick, Diego",Pena Verde,
 Caboclos de Oxóssi,7 Flechas - Foi numa tarde serena,"Foi... numa tarde serena
 Lá na mata da Jurema
 Eu vi o Caboclo bradar (2x)
@@ -81,7 +81,7 @@ Eu vi o Caboclo bradar (2x)
 Kio... kio, kio, kio, que era
 Toda a Mata está em festa
 Saravá Seu 7 Flechas
-Ele é rei da floresta (2x)","Pai Marcos, Thiago",7 Flechas
+Ele é rei da floresta (2x)","Pai Marcos, Thiago",7 Flechas,
 Caboclos de Oxóssi,Mata Virgem - Embaixo de um arvoredo,"Sentado, embaixo de um arvoredo
 No meio da mata virgem
 Uma Coral piou
@@ -95,11 +95,11 @@ Descendente de Tupi (2x)
 
 Tupi, Tupi, Tupi, Tupi.
 Sou filho do luar
-Descendente de Tupi (2x)","Pai Marcos, Drika",Mata Virgem
+Descendente de Tupi (2x)","Pai Marcos, Drika",Mata Virgem,
 Caboclos de Oxóssi,Caboclo Canindé,"Cabo, cabo
 Caboclo Canindé
 Quem tá morto tá deitado
-Quem tá vivo tá de pé",Pai Erick,Canindé
+Quem tá vivo tá de pé",Pai Erick,Canindé,
 Caboclos de Oxóssi,Pena Verde - Eu vi na margem do rio,"Eu vi na margem do rio
 Em linda manhã serena (2x)
 Caboclo Pena Verde
@@ -113,28 +113,28 @@ Na cachoeira apareceu (2x)
 Ele é Caboclo Guerreiro
 Que mora no rochedo
 Somente Cobra Coral
-Conhece dele o segredo (2x)","Pai Erick, Diego",Pena Verde
+Conhece dele o segredo (2x)","Pai Erick, Diego",Pena Verde,
 Caboclos de Oxóssi,Onde mora meus caboclos,"Lá no pé daquela serra
 Onde mora meus caboclos
 Onde mora meus caboclos
 E uma coral piou
 
 Koke (7x)
-Kokeia",,
+Kokeia",,,
 Caboclos de Oxóssi,Tupinambá - Estava na beira do rio,"Estava na beira do rio
 Sem poder atravessar
 Chamei pelo caboclo
 Caboclo Tupinambá
 
 Tupinambá chamei
-Chamei, tornei chamar ê á (2x)","Claudia, Lu, Eric Oliveira",Tupinambá
+Chamei, tornei chamar ê á (2x)","Claudia, Lu, Eric Oliveira",Tupinambá,
 Caboclos de Oxóssi,Pena Branca - Um grito na mata ecoou,"Um grito na mata ecoou
 Foi Seu Pena Branca quem chegou (2x)
 
 Com sua flecha
 Com seu cocar
 Seu Pena Branca
-Vem nos ajudar (2x)","Carol, Eduin, Eric Oliveira",Pena Branca
+Vem nos ajudar (2x)","Carol, Eduin, Eric Oliveira",Pena Branca,
 Caboclos de Oxóssi,Cobra Coral - Ele é seu Cobra Coral,"Ele é seu Cobra Coral
 Ele é seu Cobra Coral
 Filho de Oxóssi das matas
@@ -143,7 +143,7 @@ Ele mora no juremá (2x)
 Caboclo forte e valente
 É o seu Cobra Coral
 Força divina e sagrada
-Na lei de Pai Oxalá (2x)",Juan,Cobra Coral
+Na lei de Pai Oxalá (2x)",Juan,Cobra Coral,
 Caboclos de Oxóssi,7 Flechas - Foi numa tarde serena (geral),"Foi numa tarde serena
 Lá nas matas da Jurema
 Que eu o caboclo bradar
@@ -155,7 +155,7 @@ Que eu vi meu caboclo bradar
 Kiô, kiô, kiô, kiô, ki era
 Sua mata está em festa
 Saravá seu Sete Flechas
-Ele é o rei da floresta (2x)",,7 Flechas
+Ele é o rei da floresta (2x)",,7 Flechas,
 Caboclos de Oxóssi,7 Flechas - Tem festa na aldeia,"Tem festa na aldeia
 Caboclo mandou chamar
 No meio da floresta
@@ -183,14 +183,14 @@ Vem nas 7 linhas Sete Flechas já chegou
 
 Já chegou, já chegou
 Sete flechas já chegou
-Já chegou, já chegou",,7 Flechas
+Já chegou, já chegou",,7 Flechas,
 Caboclos de Oxóssi,Coral na estrada,"Oh caçador na beira do caminho
 Oi não me mate
 Essa coral na estrada
 Ela abandonou
 Sua choupana, caçador
 
-Foi no romper da madrugada (2x)",,
+Foi no romper da madrugada (2x)",,,
 Caboclos de Oxóssi,No centro da mata virgem,"No centro da Mata virgem
 Uma linda cabocla eu vi (2x)
 
@@ -202,7 +202,7 @@ Jurema, Jurema, Jurema
 Linda cabocla filha Tupi
 
 Ela vem lá do Juremá
-Vem firma seu ponto nesse congá (2x)",,
+Vem firma seu ponto nesse congá (2x)",,,
 Caboclos de Oxóssi,Caboclo não tem caminho,"Caboclo não tem caminho
 Para caminhar (2x)
 
@@ -218,14 +218,14 @@ Na aldeia d'Yorubá (2x)
 Canta curió...
 Canta sabiá...
 Canta para a mãe d'água
-Sereia rainha do mar (2x)",,
+Sereia rainha do mar (2x)",,,
 Caboclos de Oxóssi,Seu penacho é verde,"Cabocla seu penacho é verde
 Seu penacho é verde
 É da cor do mar (2x)
 
 É a cor da cabocla Jurema
 É a cor da cabocla Jurema (2x)
-Lá do Juremá (2x)",,
+Lá do Juremá (2x)",,,
 Caboclos de Oxóssi,O Juremê,"Ô Juremê
 Ô Juremá
 Sua flecha caiu serana, oh Juremá
@@ -234,7 +234,7 @@ Dentro desse congá (2x)
 Salve o Sol e salve a lua
 Salve São Sebastião
 Salve o povo da Jurema
-Salve sua a proteção",,
+Salve sua a proteção",,,
 Caboclos de Oxóssi,Clareia a aldeia,"Não tem distância
 Não importa o caminho
 Não a fronteira
@@ -256,13 +256,13 @@ Quem tem esse caboclo não perde a confiança
 Okê Caboclo
 Seus filhos querem lhe agradecer
 Okê Caboclo!
-Senhor da mata virgem venha sempre me valer",,
+Senhor da mata virgem venha sempre me valer",,,
 Caboclos de Oxóssi,Vem lá da aldeia,"Vem lá da aldeia
 Caboclo forte
 Guerreiro não bambeia (2x)
 
 Salve Pai Oxóssi Caçador
-Flecha certeira é meu protetor (2x)",,
+Flecha certeira é meu protetor (2x)",,,
 Caboclos de Oxóssi,Acorda Jupira,"Seu capacete
 Só tem um brilhante
 No meio da mata
@@ -276,7 +276,7 @@ Acorda Jupira, acorda
 Acorda e vem trabalhar
 Acorda Jupira, acorda
 Pois seu reino
-É de Tupinamba (2x)",,
+É de Tupinamba (2x)",,,
 Caboclos de Oxóssi,Cabocla Jussara,"Ela venceu
 Ela venceu demanda
 Ela vem para o mal derrubar
@@ -290,7 +290,7 @@ Abençoa nosso caminhar
 
 As matas são o seu lar
 Salve Cabocla Jussara
-Salve raio de luar (2x)",,
+Salve raio de luar (2x)",,,
 Caboclos de Oxóssi,Ouça o som que vem das matas - Jupira,"Ouça o som
 Que vem das matas...laià
 Forte brado a ecoar
@@ -309,13 +309,13 @@ Traz seus segredos caetés
 Itamaracá
 
 Bate folhas, pajelança
-Paié do meu congá (2x)",,
+Paié do meu congá (2x)",,,
 Caboclos de Oxóssi,Tava na mata - Curumin,"Tava escondidinho
-Tava na mata caçando passarinho (2x)",,
+Tava na mata caçando passarinho (2x)",,,
 Caboclos de Oxóssi,Curumin - Eu me perdi,"Eu me perdi
 Oxossi me achou
 Oxossi não é caça
-Oxossi é caçador (2x)",,
+Oxossi é caçador (2x)",,,
 Caboclos de Oxóssi,Oxalá chamou,"Oxalá chamou!
 Oxalá chamou
 E já mandou buscar
@@ -330,7 +330,7 @@ Mandar seus capangueiros
 Mandai, mandai
 Minha Cabocla Jurema
 Os seus guerreiros
-Essa é a ordem suprema!",,
+Essa é a ordem suprema!",,,
 Caboclos de Oxóssi,Foi Zambi quem criou o mundo,"Foi Zambi quem criou o mundo
 É Zambi quem vem governar (2x)
 
@@ -339,46 +339,46 @@ A estrela que ilumina
 Oxossi lá no Juremá. (2x)
 
 Oke, Oke, Oke
-Oke seus Caboclos, Oke!! (2x)",,
+Oke seus Caboclos, Oke!! (2x)",,,
 Caboclos de Oxóssi,Força da Jurema,"Chamei minha cabocla de pena
 Chamei lá na mata
 Pra ela trabalhar (2x)
 
 Pra ver a força que a Jurema tem
-Pra ver a força que a Jurema dá (2x)",,
+Pra ver a força que a Jurema dá (2x)",,,
 Caboclos de Oxóssi,Três capacetes de pena,"Mas eu mandei fazer
 Três capacetes de penas (2x)
 
 Um é pra Jussara
 Outro é pra Jandira
-Outro é pra Jurema (2x)",,
+Outro é pra Jurema (2x)",,,
 Caboclos de Oxóssi,Gostou do índio,"Gostou do índio
 Porque não vem ver (2x)
 
 Se ele é Caboclo vem obedecer
 Se ele é caboclo
 Porque ele veste pena
-Venha ver a força que tem a Jurema",,
+Venha ver a força que tem a Jurema",,,
 Caboclos de Oxóssi,A mata tava fechada,"A mata tava fechada
 Oxalá mandou abrir
 Quem tem sangue de caboclo
 Quero ver pisar aqui (2x)
 
 Caboclo é, Caboclo é
-Caboclo é a luz da mata é (2x)",,
+Caboclo é a luz da mata é (2x)",,,
 Caboclos de Oxóssi,Se meu pai é Oxóssi,"Se meu Pai é Oxossi
 Eu quero ver balancear (2x)
 
 Arreia, arreia a Capangueira da Jurema
-Oi Juremá (2x)",,
+Oi Juremá (2x)",,,
 Caboclos de Oxóssi,Deixa a Jupira passar,"Ea ea Ê Boca da mata
 Deixa a Jupira passar
-Boca da mata (4x)",,
+Boca da mata (4x)",,,
 Caboclos de Oxóssi,Beija flor,"Lá na mata tem um caboclo
 Tão lindo como um beija flor (2x)
 
 Sentado no pé da Jurema
-Rezando para Nosso Senhor (2x)",,
+Rezando para Nosso Senhor (2x)",,,
 Caboclos de Oxóssi,Vestimenta de caboclo,"Vestimenta de caboclo é samambaia
 É samambaia, é samambaia (2x)
 
@@ -407,7 +407,7 @@ Okê, arô, Oxóssi, okê, okê
 Na Bahia é São Jorge
 No Rio, São Sebastião
 Oxóssi é quem manda
-Nas bandas do meu coração (4x)",,
+Nas bandas do meu coração (4x)",,,
 Caboclos de Oxóssi,Oxossi - Citação,"Eu vi chover, eu vi relampear
 Mas mesmo assim o céu estava azul
 Samborê, pemba, é folha de jurema
@@ -438,23 +438,23 @@ Ojá e couraça prateada
 Na mão, ofá, iluquerê
 Okê, arô, Oxóssi, okê, okê
 A jurema é a árvore sagrada
-Okê, arô, Oxóssi, okê, okê",,
+Okê, arô, Oxóssi, okê, okê",,,
 Caboclos de Oxóssi,Subida,"Caboclo vai embora
 Ele vai pra sua morada (2x)
 
 A benção meu Pai
-Proteção a toda hora (2x)",,
+Proteção a toda hora (2x)",,,
 Caboclos de Oxóssi,Descarrego de Caboclos,"Descarrega, descarrega
 Todo mal que aqui está
 Leva, leva, leva
-Tudo pró fundo do mar",,
+Tudo pró fundo do mar",,,
 Caboclos de Oxóssi,Descarrego dos Orixás,"Ogun bateu na terra, no rai de Xango
 Toda a poeira que sobrou
 Oxum pra Aruanda levou, levou, levou
 Licenca de Oxossi ela ganhou
 Na onda de Iemanjá
 Iansa no barra-vento
-Pra Oxalá tudo levou, levou, levou",,
+Pra Oxalá tudo levou, levou, levou",,,
 Caboclos de Oxóssi,Madalena vem em socorro,"Descarrega, descarrega
 Que esse filho tem precisao
 Madalena vem em soccorro
@@ -463,4 +463,4 @@ Limpa toda a obesessao
 Ogun já está de ronda
 Exu de prontidao
 Leva pro mar profundo
-Toda dor e aflicao",,
+Toda dor e aflicao",,,
