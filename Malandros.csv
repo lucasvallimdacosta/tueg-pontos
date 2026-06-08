@@ -1,4 +1,4 @@
-Gira,Título do Ponto,Letra do Ponto,Médium,Entidade
+Gira,Título do Ponto,Letra do Ponto,Médium,Entidade,Toque
 Malandros,Zé Pretinho - Bala trocada,"Bala trocada não dói
 Não dói, não, não dói não (2x)
 
@@ -21,7 +21,7 @@ A madrugada é minha morada
 
 Quem tá girando aqui é Zé Pretinho
 Sou malandro, sou do morro
-Vim abrir os teus caminhos (2x)",Pai Marcos,Zé Pretinho
+Vim abrir os teus caminhos (2x)",Pai Marcos,Zé Pretinho,
 Malandros,Zé Pretinho - Oi abre a roda,"Oi abre a roda
 O por favor
 Para chamar Zé Pretinho
@@ -49,7 +49,7 @@ Se quiser me encontrar
 A madrugada é minha morada
 
 Meu nome é Zé Pretinho
-Trabalho bem na encruzilhada",Pai Marcos,Zé Pretinho
+Trabalho bem na encruzilhada",Pai Marcos,Zé Pretinho,
 Malandros,Mestre Sibamba - Sibamba é na linha de Mouro,"Sibamba é na linha de Mouro
 É na linha de Mouro
 É na linha de Mouro
@@ -58,7 +58,7 @@ Ele é pau pra virar (2x)
 Arreia, Sibambinha
 Arreia, Sibamba
 Todo o mal que aqui tiver
-Sibamba é quem vai levar (2x)",Pai Erick,Mestre Sibamba
+Sibamba é quem vai levar (2x)",Pai Erick,Mestre Sibamba,
 Malandros,Mestre Sibamba - Eu bato Sibamba,"Se o mestre me chamou
 Eu venho trabalhar (2x)
 
@@ -82,7 +82,7 @@ Sibamba, Sibamba
 Sibamba é do Pará (2x)
 
 Seu Sibamba é beberrão
-Mas sabe trabalhar (2x)",Pai Erick,Mestre Sibamba
+Mas sabe trabalhar (2x)",Pai Erick,Mestre Sibamba,
 Malandros,Mestre Sibamba - Quem vem lá,"Quem vem lá, quem vem lá
 Sou Sibamba e vou chamar
 No terreiro a trabalhar
@@ -91,7 +91,7 @@ E os seus filhos ajudar (2x)
 Eu quero ver
 Eu quero ver você descer
 Os seus filhos estremecer
-E a Jurema obedecer (2x)",Pai Erick,Mestre Sibamba
+E a Jurema obedecer (2x)",Pai Erick,Mestre Sibamba,
 Malandros,Mestre Sibamba - Sibamba é meu pai na Umbanda,"Sibamba é meu pai na Umbanda
 É meu pai na ciência
 É meu protetor
@@ -104,7 +104,7 @@ Vem deixar a proteção
 Sibamba bebe
 Sibamba fuma
 Sibamba leva
-Os contrários na macumba (2x)",Pai Erick,Mestre Sibamba
+Os contrários na macumba (2x)",Pai Erick,Mestre Sibamba,
 Malandros,Zé Pilintra das Almas - Estava Sentado,"Estava sentado
 Numa mesa da Jurema
 Afirmei meu ponto
@@ -112,12 +112,12 @@ E balancei o maracá (2x)
 
 E eu saldei foi a Jurema Preta
 Seu José Pilintra
-Dê um tombo e venha cá (2x)",Diego,Zé Pilintra das Almas
+Dê um tombo e venha cá (2x)",Diego,Zé Pilintra das Almas,
 Malandros,Maria Navalha - Maria Navalha já chegou,"Ae, Seu Zé
 Como vai, Como passou (2x)
 
 Avisa a rapaziada
-Maria Navalha já chegou (2x)","Claudia, Lu",Maria Navalha
+Maria Navalha já chegou (2x)","Claudia, Lu",Maria Navalha,
 Malandros,Maria Navalha - Falei pra não mexer,"Eu falei pra não mexer
 Eu falei pra não brigar
 Os rivais ela retalha (2x)
@@ -125,7 +125,7 @@ Os rivais ela retalha (2x)
 É lá no morro
 Chamam ela de Maria
 Mas na alta burguesia
-Só lhe chamam de Navalha (2x)","Claudia, Lu",Maria Navalha
+Só lhe chamam de Navalha (2x)","Claudia, Lu",Maria Navalha,
 Malandros,Maria Navalha - Cuidado seu Zé,"Cuidado, cuidado seu zé
 Não mexa com essa mulher (2x)
 
@@ -137,9 +137,9 @@ Mas se você debochar
 Maria navalha bota pra quebrar (2x)
 
 Não mexa com ela
-Que ela é Maria Navalha (2x)","Claudia, Lu",Maria Navalha
+Que ela é Maria Navalha (2x)","Claudia, Lu",Maria Navalha,
 Malandros,Maria Navalha - Mulher malandro,"Mulher malandro
-Se conhece é pela saia (2x)","Claudia, Lu",Maria Navalha
+Se conhece é pela saia (2x)","Claudia, Lu",Maria Navalha,
 Malandros,Maria Navalha - Gostava de mim,"Maria Navalha foi você quem falou
 Você falou que gostava de mim (2x)
 
@@ -154,7 +154,7 @@ Um feitiço e uma oração (2x)
 Maria Navalha
 Quando você for embora
 Quando você for embora
-Me deixe a sua proteção (2x)","Claudia, Lu",Maria Navalha
+Me deixe a sua proteção (2x)","Claudia, Lu",Maria Navalha,
 Malandros,Zé Pilintra - Seu doutor,"Seu doutor não maltrate esse nego
 Que esse nego tem muito valor (2x)
 
@@ -171,14 +171,14 @@ Para que me chamou
 (Bravo senhor)
 
 Ele é doutor
-Ele é Nagô (3x)","Eric Oliveira, Eduin",Zé Pilintra
+Ele é Nagô (3x)","Eric Oliveira, Eduin",Zé Pilintra,
 Malandros,Zé Pilintra - Oh boa noite,"Oh boa noite
 Pra quem é de boa noite
 Oh bom dia
 Pra quem é de bom dia (2x)
 
 A benção meu pai a benção
-Seu Zé Pilintra é o rei da boêmia (2x)","Eric Oliveira, Eduin",Zé Pilintra
+Seu Zé Pilintra é o rei da boêmia (2x)","Eric Oliveira, Eduin",Zé Pilintra,
 Malandros,Zé Pilintra - Na rua da Amargura,"Na rua da Amargura
 Aonde Zé Pilintra morava (2x)
 
@@ -194,7 +194,7 @@ Porque Zé Pilintra morreu (2x)
 Ele chorava por uma mulher
 Chorava por uma mulher
 Ele chorava por uma mulher
-Que não lhe amava (2x)","Eric Oliveira, Eduin",Zé Pilintra
+Que não lhe amava (2x)","Eric Oliveira, Eduin",Zé Pilintra,
 Malandros,Zé Pilintra - Onde é sua morada,"Seu Zé Pilintra
 Onde é que o senhor mora?
 Seu Zé Pilintra
@@ -204,7 +204,7 @@ Eu não posso te dizer
 Porque você não vai me compreender
 Eu nasci no Juremá
 Minha morada
-É bem pertinho de Oxalá","Eric Oliveira, Eduin",Zé Pilintra
+É bem pertinho de Oxalá","Eric Oliveira, Eduin",Zé Pilintra,
 Malandros,Zé Pilintra da Lapa - Chorava por uma mulher,"Eu encontrei
 Zé Pilintra na estrada
 Chorando pelo amor de sua amada
@@ -216,14 +216,14 @@ Pelo amor de sua amada
 Ele chorava por uma mulher
 Chorava por uma mulher
 Ele chorava por uma mulher
-Que não lhe amava (2x)",Juan,Zé Pilintra da Lapa
+Que não lhe amava (2x)",Juan,Zé Pilintra da Lapa,
 Malandros,Zé Malandro - Casa Pequenina,"Vocês estão vendo
 Aquela casa pequenina
 Lá no alto da colina
 Que eu mandei fazer (2x)
 
 É lá que malandro mora
-Otário não tem moradia (2x)",Claudia,Zé Malandro
+Otário não tem moradia (2x)",Claudia,Zé Malandro,
 Malandros,Zé Malandro - Quando vejo ela é um perigo,"Eh quando eu vejo ela
 É um perigo
 Seu Zé malandro meu coração
@@ -236,7 +236,7 @@ O mesmo amor me apunhalou (2x)
 Amor não chora
 Amor não chora
 Foi as últimas palavras
-Antes dela ir embora (2x)",Claudia,Zé Malandro
+Antes dela ir embora (2x)",Claudia,Zé Malandro,
 Malandros,Maria do Morro - E Maria,"E Maria, e Maria do Morro
 Rainha da vida
 Meu porto, meu socorro
@@ -263,7 +263,7 @@ Ela sabe subir
 Se o caminho é fechado
 Ela sabe abrir
 Com sua rodada
-Ela vai nos guiar",Pai Marcos,Maria do Morro
+Ela vai nos guiar",Pai Marcos,Maria do Morro,
 Malandros,Zé do Morro - Rei no Catimbó,"O moço é que eu cheguei agora
 Eu não quero ir embora, desse samba
 Pois quando otário repara a ginga
@@ -292,7 +292,7 @@ Ele traz a malandragem de novo pra sua vida
 Ele foi la rei no catimbó, em otário ele da nó.
 Seu zé do morro diz que eu não ando só
 Ele passou lá no Juremê, quem planta há de colher
-Malandro igual a esse há de nascer",Angelo,Zé do Morro
+Malandro igual a esse há de nascer",Angelo,Zé do Morro,
 Malandros,Alagoas,"Oh Zé
 Quando vem de Alagoas
 Toma cuidado
@@ -303,7 +303,7 @@ Só não maltrate
 O coração dessa mulher
 
 Oh Zé, faça tudo o que quiser
-Traga dinheiro pra gastar no cabaré",,
+Traga dinheiro pra gastar no cabaré",,,
 Malandros,Pode me chamar de covarde,"Pode me chamar de covarde
 Mas não abandono essa mulher (2x)
 
@@ -312,7 +312,7 @@ Isso não é mulher
 
 Ela joga baralho
 Ela puxa a navalha
-Risca a faca no chão (2x)",,
+Risca a faca no chão (2x)",,,
 Malandros,Radio Patrulha,"Se a radio-patrulha
 Chegasse aqui agora
 Seria uma grande vitória
@@ -320,14 +320,14 @@ Ninguém poderia correr (2x)
 
 Agora... que eu quero ver
 Quem é malandro
-Não pode correr (2x)",,
+Não pode correr (2x)",,,
 Malandros,Ás 4,"Ás quatro da madrugada
 Ela me acorda
 E eu não quero nada (2x)
 
 Mas qualquer dia
 Eu quebro esse seu despertador
-Mas trabalhar eu não vou (2x)",,
+Mas trabalhar eu não vou (2x)",,,
 Malandros,Fumando bagulho,"Estava sentado no muro
 Fumando um bagulho
 E a polícia chegou
@@ -335,25 +335,25 @@ Joguei o bagulho pro alto
 Saí no pinote e ninguém me pegou (2x)
 
 Houve tiroteio, houve confusão
-Parou na porta um camburão (2x)",,
+Parou na porta um camburão (2x)",,,
 Malandros,Quem é essa mulher,"Quem é essa mulher
 Na porta do Cabaré (2x)
 
 Oh cabaré, cabaré
-Quem é essa mulher (2x)",,
+Quem é essa mulher (2x)",,,
 Malandros,Saia do meio,"Saia do meio
 Arreda aí, vai lá pro canto (2x)
 
 Zum zum zum
 Zum zum zum
-A gira agora é do malandro (2x)",,
+A gira agora é do malandro (2x)",,,
 Malandros,Tomou conta da favela,"Uma vela não ilumina uma favela
 Mas vai iluminar
 O caminho da casa dela (2x)
 
 Apaga a luz, acende as velas
 Que a malandragem
-Tomou conta da favela (2x)",,
+Tomou conta da favela (2x)",,,
 Malandros,Trato com malandro,"Você que fez trato com malandro
 Trato feito não volta atrás (2x)
 
@@ -364,7 +364,7 @@ Você não lembra mais (2x)
 Corre o fogo, corre o vento
 Corre até não poder mais
 Um dia você me paga
-Nas voltas que o mundo dá (2x)",,
+Nas voltas que o mundo dá (2x)",,,
 Malandros,Trabalhar pra que,"De manhãzinha
 Quando eu vou desço o morro
 A nega pensa que eu vou trabalhar (2x)
@@ -375,11 +375,11 @@ E vou pra Barão de Mauá (2x)
 
 Trabalhar, Trabalhar
 Trabalhar pra quê?
-Se eu trabalhar, eu vou morrer (2x)",,
+Se eu trabalhar, eu vou morrer (2x)",,,
 Malandros,Toma cuidado,"Toma cuidado nego
 Eu vou dizer como é que é
 Malandragem boa
-É malandragem de mulher",,
+É malandragem de mulher",,,
 Malandros,Central do Brazil,"Estava na central do Brazil
 A polícia chegou
 Me deu um tapa e todo o mundo viu (2x)
@@ -387,12 +387,12 @@ Me deu um tapa e todo o mundo viu (2x)
 Oh seu polícia eu sou trabalhador
 O dinheiro que eu ganho
 Não dá pra sair
-Com a mulher do senhor (2x)",,
+Com a mulher do senhor (2x)",,,
 Malandros,Feliz na vida,"Fui feliz na vida
 Acredite se quiser (2x)
 
 Eu amei três coisas
-O jogo, São Jorge e a mulher (2x)",,
+O jogo, São Jorge e a mulher (2x)",,,
 Malandros,Não sou uma boa companhia,"Falaram que eu não valo nada
 É porque eu gosto de dançar
 Na madrugada
@@ -408,7 +408,7 @@ Trato todo mundo bem (2x)
 
 Corojão morreu
 Com o pescoço torto
-De tanto corojar a vida do outro (2x)",,
+De tanto corojar a vida do outro (2x)",,,
 Malandros,Eu menti pra ela Zé,"Eu menti pra ela Zé
 Disse que não gostava dela Zé
 E que ela podia ir
@@ -434,7 +434,7 @@ Não vá embora
 
 Oh Zé minha vida tem sido ruim
 Se não fosse você
-O que seria de mim",,
+O que seria de mim",,,
 Malandros,Meu irmão,"Malandro te digo meu irmão
 Que essa nega
 Mexeu com meu coração (2x)
@@ -445,7 +445,7 @@ Que eu me apaixonei por ela
 
 Malandro eu posso até correr perigo
 Mas se eu descer o morro
-A nega desce comigo (2x)",,
+A nega desce comigo (2x)",,,
 Malandros,Chora viola,"Malandro desce o morro
 Para dar o seu recado
 É melhor andar sozinho
@@ -453,7 +453,7 @@ Do que mal acompanhado (2x)
 
 Chora viola
 A Malandragem
-Vai chegar aqui agora (2x)",,
+Vai chegar aqui agora (2x)",,,
 Malandros,Traz de lado o seu chapéu,"Malandro bom
 Traz de lado o seu chapéu (2x)
 
@@ -463,7 +463,7 @@ Ele é o malandro Miguel (2x)
 Galo cantou
 Três horas da madrugada
 Oh quem matou camisa preta
-Foi o Cabo da Brigada (2x)",,
+Foi o Cabo da Brigada (2x)",,,
 Malandros,Xadrez,"Estava preso no xadrez
 Quando ouvi a notícia
 Que a minha sentença
@@ -477,7 +477,7 @@ Que eu tanto amei
 Todo o domingo
 Ela vinha me visitar
 Botava boquinha na grade
-Para me beijar",,
+Para me beijar",,,
 Malandros,Zé da Lapa,"Eh tudo por conta de quem falava
 A língua de falador
 Machuca mais que uma bala
@@ -506,7 +506,7 @@ Os olhos de Navalha enxugou
 
 E meia triste despedida
 Ah esse Malandro te espera
-Em outra vida",,
+Em outra vida",,,
 Malandros,Madalena vem em socorro,"Descarrega, descarrega
 Que esse filho tem precisao
 Madalena vem em soccorro
@@ -515,20 +515,20 @@ Limpa toda a obesessao
 Ogun já está de ronda
 Exu de prontidao
 Leva pro mar profundo
-Toda dor e aflicao",,
+Toda dor e aflicao",,,
 Malandros,Descarrego dos Orixás,"Ogun bateu na terra, no rai de Xango
 Toda a poeira que sobrou
 Oxum pra Aruanda levou, levou, levou
 Licenca de Oxossi ela ganhou
 Na onda de Iemanjá
 Iansa no barra-vento
-Pra Oxalá tudo levou, levou, levou",,
+Pra Oxalá tudo levou, levou, levou",,,
 Malandros,Descarrega descarrega,"Descarrega, descarrega
 Todo mal que aqui está
 Leva, leva, leva
-Tudo pró fundo do mar",,
+Tudo pró fundo do mar",,,
 Malandros,Subida,"Agora pro seu morro vai subir
 Meu Deus ele já vai embora
 Conversa de malandro não tem fim
 Boa noite meus senhores
-Boa noite minhas senhoras",,
+Boa noite minhas senhoras",,,
